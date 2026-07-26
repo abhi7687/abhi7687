@@ -171,43 +171,34 @@ Python • MySQL • Power BI
 
 ---
 
-## 🌐 Connect With Me
+### 🤝 Let's Connect
+---
+<br />
 
 <div align="center">
 
 <a href="https://github.com/abhi7687">
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhiramvaitla/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:abhiramvaitla7687@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
-
-<a href="https://my-portfolio-two-livid-72.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
-</a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/abhiram7687/">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+<img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://my-portfolio-two-livid-72.vercel.app" target="_blank">
+  <img src="https://my-portfolio-two-livid-72.vercel.app/logo.svg" height="42" alt="Portfolio"/>
 </a>
 
 </div>
 
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abhi7687&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -219,3 +210,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=abhi7687&the
 </p>
 
 ---
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+*"Code. Learn. Build. Repeat."*
+
+<br>
+
+Made with ❤️ by **Abhiram**
+
+</div>
