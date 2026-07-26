@@ -110,18 +110,6 @@ Node.js • JavaScript • CLI
 
 <td width="50%">
 
-### 📊 Job Market Analytics
-
-Interactive dashboard for analysing job trends using real-world datasets.
-
-**Tech Stack**
-
-Python • MySQL • Power BI
-
-[Repository](https://github.com/abhi7687)
-
-</td>
-
 </tr>
 
 </table>
