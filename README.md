@@ -198,3 +198,24 @@ Python • MySQL • Power BI
 </div>
 
 ---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhi7687&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=abhi7687&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
