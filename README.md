@@ -6,10 +6,10 @@
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="assets/light.svg">
+      srcset="abhi7687/assets/light.svg">
 
     <img
-      src="assets/dark.svg"
+      src="abhi7687/assets//dark.svg"
       alt="GitHub Profile Banner"
       width="100%">
   </picture>
