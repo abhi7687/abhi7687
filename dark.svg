@@ -8,14 +8,46 @@
     fill="none">
 
     <defs>
+    <radialGradient id="bgGlow1" cx="20%" cy="20%" r="60%">
+        <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.18">
+            <animate attributeName="stop-opacity"
+                     values="0.12;0.22;0.12"
+                     dur="8s"
+                     repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
 
-    </defs>
+    <radialGradient id="bgGlow2" cx="80%" cy="80%" r="70%">
+        <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.15">
+            <animate attributeName="stop-opacity"
+                     values="0.10;0.20;0.10"
+                     dur="10s"
+                     repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+</defs>
 
     <rect
-        x="0"
-        y="0"
-        width="1180"
-        height="610"
-        fill="#030712"/>
+    x="0"
+    y="0"
+    width="1180"
+    height="610"
+    fill="#030712"/>
+
+<rect
+    x="0"
+    y="0"
+    width="1180"
+    height="610"
+    fill="url(#bgGlow1)"/>
+
+<rect
+    x="0"
+    y="0"
+    width="1180"
+    height="610"
+    fill="url(#bgGlow2)"/>
 
 </svg>
