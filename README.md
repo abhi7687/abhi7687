@@ -170,3 +170,31 @@ Python • MySQL • Power BI
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/abhi7687">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhiramvaitla/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+
+<a href="mailto:abhiramvaitla7687@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>
+
+<a href="https://my-portfolio-two-livid-72.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+</a>
+
+<a href="https://leetcode.com/abhiram7687/">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+</a>
+
+</div>
+
+---
