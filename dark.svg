@@ -219,4 +219,87 @@ Vaitla Abhiram
 
 </text>
 
+<!-- ========================= -->
+<!-- SKILLS -->
+<!-- ========================= -->
+
+<text
+    x="465"
+    y="375"
+    fill="#F8FAFC"
+    font-size="18"
+    font-weight="600"
+    font-family="Inter, Segoe UI, Arial">
+
+Tech Stack
+
+</text>
+
+<!-- Row 1 -->
+
+<rect x="465" y="395" width="75" height="32" rx="16" fill="#1E293B"/>
+<text x="503" y="416"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">React</text>
+
+<rect x="550" y="395" width="82" height="32" rx="16" fill="#1E293B"/>
+<text x="591" y="416"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Next.js</text>
+
+<rect x="642" y="395" width="82" height="32" rx="16" fill="#1E293B"/>
+<text x="683" y="416"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Node.js</text>
+
+<rect x="734" y="395" width="110" height="32" rx="16" fill="#1E293B"/>
+<text x="789" y="416"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">TypeScript</text>
+
+<!-- Row 2 -->
+
+<rect x="465" y="440" width="92" height="32" rx="16" fill="#1E293B"/>
+<text x="511" y="461"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Tailwind</text>
+
+<rect x="567" y="440" width="82" height="32" rx="16" fill="#1E293B"/>
+<text x="608" y="461"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Python</text>
+
+<rect x="659" y="440" width="82" height="32" rx="16" fill="#1E293B"/>
+<text x="700" y="461"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Docker</text>
+
+<rect x="751" y="440" width="110" height="32" rx="16" fill="#1E293B"/>
+<text x="806" y="461"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Postgres</text>
+
+<rect x="871" y="440" width="55" height="32" rx="16" fill="#1E293B"/>
+<text x="898" y="461"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-size="13"
+      font-family="Inter">Git</text>
+
 </svg>
