@@ -27,6 +27,9 @@
         </stop>
         <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
+        <filter id="glassBlur" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="8"/>
+</filter>
 </defs>
 
     <rect
@@ -49,5 +52,24 @@
     width="1180"
     height="610"
     fill="url(#bgGlow2)"/>
+
+    <rect
+    x="20"
+    y="20"
+    width="1140"
+    height="570"
+    rx="28"
+    fill="#0F172A"
+    fill-opacity="0.72"/>
+
+<rect
+    x="20.5"
+    y="20.5"
+    width="1139"
+    height="569"
+    rx="28"
+    fill="none"
+    stroke="#FFFFFF"
+stroke-opacity="0.08"/>
 
 </svg>
