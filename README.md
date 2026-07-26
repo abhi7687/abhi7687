@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <!-- <source
+    <source
       media="(prefers-color-scheme: dark)"
-      srcset="assets/dark.svg"> -->
+      srcset="assets/dark.svg">
 
     <source
       media="(prefers-color-scheme: light)"
