@@ -2,7 +2,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="assets/dark.svg">
+      srcset="abhi7687/assets/dark.svg">
 
     <source
       media="(prefers-color-scheme: light)"
