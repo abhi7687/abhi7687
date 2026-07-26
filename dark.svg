@@ -161,4 +161,54 @@ terminal
     stroke="#FFFFFF"
     stroke-opacity="0.06"/>
 
+<!-- ========================= -->
+<!-- TERMINAL CONTENT -->
+<!-- ========================= -->
+
+<text
+    x="500"
+    y="145"
+    fill="#22D3EE"
+    font-size="18"
+    font-family="JetBrains Mono, Consolas, monospace">
+$
+</text>
+
+<text
+    x="520"
+    y="145"
+    fill="#F8FAFC"
+    font-size="18"
+    font-family="JetBrains Mono, Consolas, monospace">
+Hi, I'm
+</text>
+
+<text
+    x="500"
+    y="185"
+    fill="#F8FAFC"
+    font-size="36"
+    font-weight="700"
+    font-family="Inter, Segoe UI, Arial, sans-serif">
+Vaitla Abhiram
+</text>
+
+<!-- Cursor -->
+
+<rect
+    x="795"
+    y="170"
+    width="10"
+    height="22"
+    rx="2"
+    fill="#22D3EE">
+
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+
+</rect>
+
 </svg>
