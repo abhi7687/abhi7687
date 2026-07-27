@@ -116,25 +116,7 @@ Node.js • JavaScript • CLI
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi7687&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/> -->
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi7687&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7687&layout=compact&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=abhi7687&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=3"/> -->
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
