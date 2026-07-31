@@ -152,7 +152,7 @@ Node.js • JavaScript • CLI
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <br />
 
