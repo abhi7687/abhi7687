@@ -64,6 +64,20 @@
 
 <td width="50%">
 
+### 📄 Document Chat System
+
+Full-stack RAG application for uploading PDF documents and asking questions grounded in their content using semantic vector search and local LLMs.
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express • PostgreSQL • pgvector • Prisma • Ollama • Docker
+
+[Repository](https://github.com/abhi7687/document-chat-system)
+
+</td>
+
+<td width="50%">
+
 ### 🩺 HealthCare Chatbot
 
 AI-powered healthcare chatbot built using Neural Networks for symptom analysis and health assistance.
@@ -76,29 +90,29 @@ Python • Machine Learning • FNN • Flask
 
 </td>
 
-<td width="50%">
-
-### 🌦 Smart Weather
-
-Modern weather application with live weather, forecasts and responsive UI.
-
-**Tech Stack**
-
-React • Node.js • OpenWeather API
-
-[Repository](https://github.com/abhi7687)
-
-</td>
-
 </tr>
 
 <tr>
 
 <td width="50%">
 
+### 🌦 Smart Weather
+
+Full-stack weather application providing live weather information and forecasts through a responsive web interface.
+
+**Tech Stack**
+
+React • Node.js • JavaScript • OpenWeather API
+
+[Repository](https://github.com/abhi7687)
+
+</td>
+
+<td width="50%">
+
 ### 📋 Task Tracker CLI
 
-A production-ready command line task manager published using Node.js.
+Command-line task management application built with Node.js for creating, updating, tracking, and managing tasks from the terminal.
 
 **Tech Stack**
 
@@ -108,14 +122,11 @@ Node.js • JavaScript • CLI
 
 </td>
 
-<td width="50%">
-
 </tr>
 
 </table>
 
 ---
-
 
 
 ## 🐍 Contribution Graph
