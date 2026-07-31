@@ -20,8 +20,8 @@ jobs:
           github_user_name: abhi7687
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?duration=12000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&duration=12000
+            dist/github-contribution-grid-snake.svg?duration=20000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&duration=20000
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
